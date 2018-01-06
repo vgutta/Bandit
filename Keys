@@ -8,3 +8,14 @@ Level 6 -> Level 7: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 Level 7 -> Level 8: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 
 Level 8 -> Level 9: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+
+Bandit Level 9 → Level 10: strings data.txt | grep =====
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
+Bandit Level 10 → Level 11: cat data.txt | base64 --decode
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+Bandit Level 11 → Level 12: cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+
+
